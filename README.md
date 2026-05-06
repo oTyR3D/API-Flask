@@ -71,7 +71,7 @@ A API foi construída com foco educacional, simulando cenários reais de valida�
 ## 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/oTyR3D/API-Flask.git
 ```
 
 ---
@@ -79,7 +79,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 ## 2. Entrar na pasta do projeto
 
 ```bash
-cd nome-do-projeto
+cd API-Flask
 ```
 
 ---
@@ -107,13 +107,6 @@ venv\Scripts\activate
 ```bash
 pip install flask
 ```
-
-Ou:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## 5. Executar a API
@@ -220,12 +213,11 @@ Análise de:
 # Organização do Projeto
 
 ```txt
-projeto/
+API-Flask/
 │
 ├── app.py
-├── requirements.txt
 ├── README.md
-└── evidencias/
+
 ```
 
 ---
